@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EcommerceApplication/static/css/main.af286fae.css",
+    "main.js": "/EcommerceApplication/static/js/main.ea72ca9f.js",
+    "static/media/showcase-bg.jpg": "/EcommerceApplication/static/media/showcase-bg.a386659a615afa3c0a00.jpg",
+    "static/media/favicon.ico": "/EcommerceApplication/static/media/favicon.4270ff5d1591b520efef.ico",
+    "index.html": "/EcommerceApplication/index.html",
+    "main.af286fae.css.map": "/EcommerceApplication/static/css/main.af286fae.css.map",
+    "main.ea72ca9f.js.map": "/EcommerceApplication/static/js/main.ea72ca9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af286fae.css",
+    "static/js/main.ea72ca9f.js"
+  ]
+}
